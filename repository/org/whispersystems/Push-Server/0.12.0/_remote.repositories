@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 08 05:52:30 PST 2016
+Push-Server-0.12.0.jar>=
+Push-Server-0.12.0.pom>=
+Push-Server-0.12.0-bin.tar.gz>=
